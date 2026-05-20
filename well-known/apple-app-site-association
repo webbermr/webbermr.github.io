@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["3T384897P2.com.markwebber.arrivl"],
+        "components": [
+          {
+            "/": "/join/*",
+            "comment": "Arrivl event invite links"
+          }
+        ]
+      }
+    ]
+  }
+}
